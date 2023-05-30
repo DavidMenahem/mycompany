@@ -1,0 +1,9 @@
+{
+ "category": "dairy",
+ "name": "milk",
+ "supplier": "tnuva",
+ "price_customer": 7.23,
+ "price_supplier": 4,
+ "profit": 3.23,
+ "amount": 20
+}

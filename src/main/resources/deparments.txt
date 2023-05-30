@@ -1,0 +1,15 @@
+{
+"store": {"id": 1},
+"name": "milk",
+"numOfEmployees": 0,
+"description": "dairy products"
+}
+
+{
+"store"{
+"id": 1
+},
+"name": "management",
+"numOfEmployees": 1,
+"description": "Cochav ha'sharon management"
+}

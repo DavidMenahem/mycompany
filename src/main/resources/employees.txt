@@ -1,0 +1,28 @@
+{"department":{
+                  "id": 4,
+                  "name": "milk",
+                  "numOfEmployees": 0,
+                  "description": "dairy products"
+                  },
+    "name" : "David",
+    "position": "vice manager",
+    "salary": 10000,
+    "startDate": "12-07-2022",
+    "password": "1234",
+    "address": "brener",
+    "age": 37,
+    "phoneNumber": "053-8285199",
+    "email": "dvmena39@gmail.com"
+}
+{"department":{
+                  "id": 2},
+    "name" : "Guy",
+    "position": "Manager",
+    "salary": 15000,
+    "startDate": "04-01-2023",
+    "password": "1234",
+    "address": "petah tikva",
+    "age": 41,
+    "phoneNumber": "",
+    "email": ""
+}

@@ -1,0 +1,6 @@
+{
+   "name": "cochav ha'sharon",
+   "address": "ha'mapilim 13 kfarsaba",
+   "employee": {"id": null},
+   "contactNumber": "09-7444422"
+}
